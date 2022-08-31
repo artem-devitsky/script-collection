@@ -1,4 +1,4 @@
-# script-collection
+# My script collection
 Thats my public collection of scripts for various purposes.
 
 ### IBM_Storwize_V7000_attributes_collection.sh
