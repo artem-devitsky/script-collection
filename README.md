@@ -2,7 +2,7 @@
 Thats my public collection of scripts for various purposes.
 
 ### pythonizer3000.sh
-pythonizer3000.sh is a script that's was develop just for fun when i'm tryed to cheat python assesment when apply in ${companyName} at position of bash-scripting guy.  
+pythonizer3000.sh is a script that's was develop just for fun when i'm tryed to cheat python assessment when apply in ${companyName} at position of bash-scripting guy.  
 Yes, they test bash scripter with python. LOL. 
 No, it doesn't fly at codility.com. 
 May be script would be helpfull later.
