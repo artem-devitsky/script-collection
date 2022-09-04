@@ -3,8 +3,10 @@ Thats my public collection of scripts for various purposes.
 
 ### pythonizer3000.sh
 pythonizer3000.sh is a script that's was develop just for fun when i'm tried to cheat python assessment when apply in ${companyName} at position of bash-scripting guy.  
-Yes, they try to test man who write bash scripts with python. LOL. 
-No, it doesn't fly at codility.com. 
+
+ - Yes, they try to test man who write bash scripts with python. LOL.  
+ - No, it doesn't fly at codility.com.
+ 
 May be script would be helpfull later.
 
 ### IBM_Storwize_V7000_attributes_collection.sh
